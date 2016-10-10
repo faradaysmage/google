@@ -7,3 +7,54 @@ img.google {
 	margin: 0px auto;
 	margin-top: 165px;
 }
+
+#search {
+	position: relative;
+	top: 35px;
+	left:580px;
+	
+	height: 30px;
+	width: 500px;
+}
+
+#button1 {
+	height: 35px;
+
+    background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	color: #757575;
+	min-width: 54px;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 0 16px;
+    position: relative;
+    top:100px;
+    left:150px;
+    
+}
+
+
+#button2 {
+	height: 35px;
+
+    background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	color: #757575;
+	min-width: 54px;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 0 16px;
+    position: relative;
+    top:100px;
+    left:200px;
+}
+
+ #button2:hover, #button1:hover {
+
+background-color: #bfbfbf;
+color:black;
+border-color:black;
+}
+
+
+
